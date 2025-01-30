@@ -9,5 +9,6 @@ Shows an error message if the city is not found. <br>
 
 <h2>Screenshot</h2>
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/3fe746ee-67a2-489e-8729-eb08247d5249)
+
 
