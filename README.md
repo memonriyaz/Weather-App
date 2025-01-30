@@ -6,3 +6,8 @@
 Enter the name of a city to get the current weather data. <br>
 Displays the city name, temperature, and weather description. <br>
 Shows an error message if the city is not found. <br>
+
+<h2>Screenshot</h2>
+
+![Uploading image.png…]()
+
